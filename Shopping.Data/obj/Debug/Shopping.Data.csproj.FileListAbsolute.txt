@@ -1,0 +1,5 @@
+c:\users\vusi\documents\visual studio 2013\Projects\MvcApplication1\Shopping.Data\bin\Debug\Shopping.Data.dll
+c:\users\vusi\documents\visual studio 2013\Projects\MvcApplication1\Shopping.Data\bin\Debug\Shopping.Data.pdb
+c:\users\vusi\documents\visual studio 2013\Projects\MvcApplication1\Shopping.Data\obj\Debug\Shopping.Data.csprojResolveAssemblyReference.cache
+c:\users\vusi\documents\visual studio 2013\Projects\MvcApplication1\Shopping.Data\obj\Debug\Shopping.Data.dll
+c:\users\vusi\documents\visual studio 2013\Projects\MvcApplication1\Shopping.Data\obj\Debug\Shopping.Data.pdb

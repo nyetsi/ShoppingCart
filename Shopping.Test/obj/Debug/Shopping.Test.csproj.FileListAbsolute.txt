@@ -1,0 +1,13 @@
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\Shopping.Test.dll
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\Shopping.Test.pdb
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\Moq.dll
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\nunit.framework.dll
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\Moq.xml
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\nunit.framework.xml
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\obj\Debug\Shopping.Test.csprojResolveAssemblyReference.cache
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\obj\Debug\Shopping.Test.dll
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\obj\Debug\Shopping.Test.pdb
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\ServiceLayer.dll
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\Shopping.Data.dll
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\ServiceLayer.pdb
+C:\Users\Vusi\Documents\Visual Studio 2013\Projects\MvcApplication1\Shopping.Test\bin\Debug\Shopping.Data.pdb
